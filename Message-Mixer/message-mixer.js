@@ -5,7 +5,7 @@ const encryptors = require('./encryptors.js')
 const caesarCipher = encryptors.caesarCiipher;
 const symbolCipher = encryptors.symbolCipher;
 const reverseCipher = encryptors.reverseCipher;
-// There are a few ways to extract values out of an object. The quickest is with object destructuring syntax: const {caesarCipher, symbolCipher, reverseCipher} = encryptors;
+// There are a few ways to extract values out of an object. The quickest is with object destructuring syntax: const {caesarCipher, symbolCipher, reverseCipher} = require('path to js with functions');
 
 // Encryption Functions
 
